@@ -1,0 +1,37 @@
+Current Python: /home/yujinoh/miniconda3/envs/hw3/bin/python
+Conda Environments:
+device cuda
+Data Uploaded
+Start Time 2025-03-11 19:50:39
+Check point saved to gpt2_medium_checkpoint_1.pth
+Epoch num: 1, Training Loss: 0.7609675340446882
+Evaluation Accuracy 0.6904761904761905
+Check point saved to gpt2_medium_checkpoint_2.pth
+Epoch num: 2, Training Loss: 0.630043583845826
+Evaluation Accuracy 0.7074829931972789
+Check point saved to gpt2_medium_checkpoint_3.pth
+Epoch num: 3, Training Loss: 0.5085231605408801
+Evaluation Accuracy 0.710204081632653
+Check point saved to gpt2_medium_checkpoint_4.pth
+Epoch num: 4, Training Loss: 0.363981133692022
+Evaluation Accuracy 0.7
+Check point saved to gpt2_medium_checkpoint_5.pth
+Epoch num: 5, Training Loss: 0.23998847879266028
+Evaluation Accuracy 0.6993197278911565
+Check point saved to gpt2_medium_checkpoint_6.pth
+Epoch num: 6, Training Loss: 0.1647572070961037
+Evaluation Accuracy 0.6986394557823129
+Check point saved to gpt2_medium_checkpoint_7.pth
+Epoch num: 7, Training Loss: 0.13161918690552932
+Evaluation Accuracy 0.6918367346938775
+Check point saved to gpt2_medium_checkpoint_8.pth
+Epoch num: 8, Training Loss: 0.11971703192066614
+Evaluation Accuracy 0.6850340136054421
+Check point saved to gpt2_medium_checkpoint_9.pth
+Epoch num: 9, Training Loss: 0.11420279165392479
+Evaluation Accuracy 0.6761904761904762
+Check point saved to gpt2_medium_checkpoint_10.pth
+Epoch num: 10, Training Loss: 0.10967880868290553
+Evaluation Accuracy 0.680952380952381
+End Time 2025-03-11 20:56:18
+Evaluation ACC: [0.6904761904761905, 0.7074829931972789, 0.710204081632653, 0.7, 0.6993197278911565, 0.6986394557823129, 0.6918367346938775, 0.6850340136054421, 0.6761904761904762, 0.680952380952381]

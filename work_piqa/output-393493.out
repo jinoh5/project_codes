@@ -1,0 +1,37 @@
+Current Python: /home/yujinoh/miniconda3/envs/hw3/bin/python
+Conda Environments:
+device cuda
+Dataset loaded
+Start Time 2025-03-11 19:55:03
+Check point saved to memory_2715_checkpoint_1.pth
+Epoch num: 1, Training Loss: 1.8400325334397498
+Evaluation Accuracy 0.5340136054421769
+Check point saved to memory_2715_checkpoint_2.pth
+Epoch num: 2, Training Loss: 1.4390626443231076
+Evaluation Accuracy 0.5598639455782313
+Check point saved to memory_2715_checkpoint_3.pth
+Epoch num: 3, Training Loss: 1.2909633055810006
+Evaluation Accuracy 0.5653061224489796
+Check point saved to memory_2715_checkpoint_4.pth
+Epoch num: 4, Training Loss: 1.1810072308438588
+Evaluation Accuracy 0.5802721088435374
+Check point saved to memory_2715_checkpoint_5.pth
+Epoch num: 5, Training Loss: 1.0921174577684616
+Evaluation Accuracy 0.5965986394557823
+Check point saved to memory_2715_checkpoint_6.pth
+Epoch num: 6, Training Loss: 1.3369695038047085
+Evaluation Accuracy 0.5503401360544218
+Check point saved to memory_2715_checkpoint_7.pth
+Epoch num: 7, Training Loss: 1.2669803816686493
+Evaluation Accuracy 0.5707482993197279
+Check point saved to memory_2715_checkpoint_8.pth
+Epoch num: 8, Training Loss: 1.1273872232614617
+Evaluation Accuracy 0.580952380952381
+Check point saved to memory_2715_checkpoint_9.pth
+Epoch num: 9, Training Loss: 1.0391659750684024
+Evaluation Accuracy 0.5972789115646259
+Check point saved to memory_2715_checkpoint_10.pth
+Epoch num: 10, Training Loss: 0.9713913982100877
+Evaluation Accuracy 0.608843537414966
+End Time 2025-03-11 22:09:42
+Evaluation ACC: [0.5340136054421769, 0.5598639455782313, 0.5653061224489796, 0.5802721088435374, 0.5965986394557823, 0.5503401360544218, 0.5707482993197279, 0.580952380952381, 0.5972789115646259, 0.608843537414966]
